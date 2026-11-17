@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "node-rdpjs": "^0.1.3",
+    "node-rdpjs-2": "^0.3.5",
     "socket.io": "^4.7.5"
   }
 }
